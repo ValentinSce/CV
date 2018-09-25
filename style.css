@@ -1,12 +1,12 @@
 
 #back{
-    background-color: #3F313E;
+  background-color: #3F313E;
 }
 
 nav ul{
-padding: 0%;
-margin: 0%;
-background-color:#1D1A21;
+  padding: 0%;
+  margin: 0%;
+  background-color:#1D1A21;
 }
 
 nav li{
@@ -19,17 +19,18 @@ nav li{
   text-align:center;
   line-height:40px;
 }
+
 nav li a{
   display:block;
   text-decoration:none;
   color:#D5B552;
-
 }
 
 #name{
   background-color:#1D1A21;
   color:	#D5B552;
 }
+
 .titre{
   background-color:#1D1A21;
   color:	#D5B552;
@@ -89,81 +90,81 @@ nav li a{
 }
 
 .progress-bar_anglais {
-    width: 50%;
-    height: 24px;
-    padding: 4px;
-    background-color: #1D1A21;
-    border-radius: 20px;
+  width: 50%;
+  height: 24px;
+  padding: 4px;
+  background-color: #1D1A21;
+  border-radius: 20px;
 }
 
 .progress-bar_anglais:before {
-    content: '50%';
-    text-align: right;
-    color :#1D1A21;
-    display: block;
-    position: absolute;
-    width: 25%;
-    height: 24px;
-    background: #D5B552;
-    border-radius: 20px;
+  content: '50%';
+  text-align: right;
+  color :#1D1A21;
+  display: block;
+  position: absolute;
+  width: 25%;
+  height: 24px;
+  background: #D5B552;
+  border-radius: 20px;
 }
 
 .progress-bar_html {
-    width: 50%;
-    height: 24px;
-    padding: 4px;
-    background-color: #1D1A21;
-    border-radius: 20px;
+  width: 50%;
+  height: 24px;
+  padding: 4px;
+  background-color: #1D1A21;
+  border-radius: 20px;
 }
 
 .progress-bar_html:before {
-    content: '40%';
-    text-align:right;
-    color :#1D1A21;
-    display: block;
-    position: absolute;
-    width: 20%;
-    height: 24px;
-    background: #D5B552;
-    border-radius: 20px;
+  content: '40%';
+  text-align:right;
+  color :#1D1A21;
+  display: block;
+  position: absolute;
+  width: 20%;
+  height: 24px;
+  background: #D5B552;
+  border-radius: 20px;
 }
 
 .progress-bar_css {
-    width: 50%;
-    height: 24px;
-    padding: 4px;
-    background-color: #1D1A21;
-    border-radius: 20px;
+  width: 50%;
+  height: 24px;
+  padding: 4px;
+  background-color: #1D1A21;
+  border-radius: 20px;
 }
 
 .progress-bar_css:before {
-    content: '40%';
-    text-align:right;
-    color :#1D1A21;
-    display: block;
-    position: absolute;
-    width: 20%;
-    height: 24px;
-    background: #D5B552;
-    border-radius: 20px;
+  content: '40%';
+  text-align:right;
+  color :#1D1A21;
+  display: block;
+  position: absolute;
+  width: 20%;
+  height: 24px;
+  background: #D5B552;
+  border-radius: 20px;
 }
 
 .progress-bar_c {
-    width: 50%;
-    height: 24px;
-    padding: 4px;
-    background-color: #1D1A21;
-    border-radius: 20px;
+  width: 50%;
+  height: 24px;
+  padding: 4px;
+  background-color: #1D1A21;
+  border-radius: 20px;
 }
 
 .progress-bar_c:before {
-    content: '40%';
-    text-align:right;
-    color :#1D1A21;
-    display: block;
-    position: absolute;
-    width: 20%;
-    height: 24px;
-    background: #D5B552;
-    border-radius: 20px;
+  content: '40%';
+  text-align:right;
+  color :#1D1A21;
+  display: block;
+  position: absolute;
+  width: 20%;
+  height: 24px;
+  background: #D5B552;
+  border-radius: 20px;
 }
